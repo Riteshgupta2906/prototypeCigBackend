@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Abhyuday Mishra",
+    "designation": "Chairperson",
+    "image": "/images/Abhyuday%20Mishra.png",
+    "email": "amishra3@ch.iitr.ac.in",
+    "contact": "9560284667",
+    "isStudentBody": true
+  },
+  {
+    "name": "Souradipta Ganguly",
+    "designation": "Vice-Chairperson",
+    "image": "/images/Souradipta%20Ganguly.png",
+    "email": "souradiptagang@gmail.com",
+    "contact": "9867186036",
+    "isStudentBody": true
+  },
+  {
+    "name": "Zaid Bin Junaid",
+    "designation": "Head of Web Development",
+    "image": "/images/Zaid%20Bin%20Junaid.png",
+    "email": "zaidjunaid3@gmail.com",
+    "contact": "7300912106",
+    "isStudentBody": true
+  },
+  {
+    "name": "Anurag Mukherjee",
+    "designation": "Head of New Connections",
+    "image": "/images/Anurag%20Mukherjee.png",
+    "email": "amukerjee@es.iitr.ac.in",
+    "contact": "9068521481",
+    "isStudentBody": true
+  },
+  {
+    "name": "Rishabh Sharma",
+    "designation": "Head of Content and Design",
+    "image": "/images/Anurag%20Mukherjee.png",
+    "email": "rsharma1@me.iitr.ac.in",
+    "contact": "9582886628",
+    "isStudentBody": true
+  },
+  {
+    "name": "Saurav Sangam",
+    "designation": "Head of on campus activities",
+    "image": "/images/Saurav%20Sangam.png",
+    "email": "ssangam@ee.iitr.ac.in",
+    "contact": "7319987253",
+    "isStudentBody": true
+  },
+  {
+    "name": "Yash Agrawal",
+    "designation": "Executive Member",
+    "image": "/images/Yash%20Agrawal.png",
+    "email": "yagrawal@ch.iitr.ac.in",
+    "contact": "9680790435",
+    "isStudentBody": true
+  },
+  {
+    "name": "Nipun Bhagat",
+    "designation": "Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "nbhagat@ee.iitr.ac.in",
+    "contact": "9682622919",
+    "isStudentBody": true
+  },
+  {
+    "name": "Aryan",
+    "designation": "Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "araj1@ee.iitr.ac.in",
+    "contact": "9068511351",
+    "isStudentBody": true
+  },
+  {
+    "name": "Prabhakar Aryan",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "pkumar@ch.iitr.ac.in",
+    "contact": "7481978181",
+    "isStudentBody": true
+  },
+  {
+    "name": "Rahul Kumar",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "rkumar@ee.iitr.ac.in",
+    "contact": "9460560257",
+    "isStudentBody": true
+  },
+  {
+    "name": "Aman Kumar",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "aman.kumarbbn@gmail.com",
+    "contact": "9123404137",
+    "isStudentBody": true
+  },
+  {
+    "name": "Ayush Dixit",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Ayush%20Dixit.png",
+    "email": "adixit@me.iitr.ac.in",
+    "contact": "9479340436",
+    "isStudentBody": true
+  },
+  {
+    "name": "Himanshu Tripathi",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Ayush%20Dixit.png",
+    "email": "adixit@me.iitr.ac.in",
+    "contact": "9829748703",
+    "isStudentBody": true
+  },
+  {
+    "name": "Rohit Poonia",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Ayush%20Dixit.png",
+    "email": "rohit@mt.iitr.ac.in",
+    "contact": "7300219613",
+    "isStudentBody": true
+  },
+  {
+    "name": "Abhyuday Mishra",
+    "designation": "Chairperson",
+    "image": "/images/Abhyuday%20Mishra.png",
+    "email": "amishra3@ch.iitr.ac.in",
+    "contact": "9560284667",
+    "isStudentBody": true
+  },
+  {
+    "name": "Souradipta Ganguly",
+    "designation": "Vice-Chairperson",
+    "image": "/images/Souradipta%20Ganguly.png",
+    "email": "souradiptagang@gmail.com",
+    "contact": "9867186036",
+    "isStudentBody": true
+  },
+  {
+    "name": "Zaid Bin Junaid",
+    "designation": "Head of Web Development",
+    "image": "/images/Zaid%20Bin%20Junaid.png",
+    "email": "zaidjunaid3@gmail.com",
+    "contact": "7300912106",
+    "isStudentBody": true
+  },
+  {
+    "name": "Anurag Mukherjee",
+    "designation": "Head of New Connections",
+    "image": "/images/Anurag%20Mukherjee.png",
+    "email": "amukerjee@es.iitr.ac.in",
+    "contact": "9068521481",
+    "isStudentBody": true
+  },
+  {
+    "name": "Rishabh Sharma",
+    "designation": "Head of Content and Design",
+    "image": "/images/Anurag%20Mukherjee.png",
+    "email": "rsharma1@me.iitr.ac.in",
+    "contact": "9582886628",
+    "isStudentBody": true
+  },
+  {
+    "name": "Saurav Sangam",
+    "designation": "Head of on campus activities",
+    "image": "/images/Saurav%20Sangam.png",
+    "email": "ssangam@ee.iitr.ac.in",
+    "contact": "7319987253",
+    "isStudentBody": true
+  },
+  {
+    "name": "Nipun Bhagat",
+    "designation": "Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "nbhagat@ee.iitr.ac.in",
+    "contact": "9682622919",
+    "isStudentBody": true
+  },
+  {
+    "name": "Yash Agrawal",
+    "designation": "Executive Member",
+    "image": "/images/Yash%20Agrawal.png",
+    "email": "yagrawal@ch.iitr.ac.in",
+    "contact": "9680790435",
+    "isStudentBody": true
+  },
+  {
+    "name": "Aryan",
+    "designation": "Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "araj1@ee.iitr.ac.in",
+    "contact": "9068511351",
+    "isStudentBody": true
+  },
+  {
+    "name": "Prabhakar Aryan",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "pkumar@ch.iitr.ac.in",
+    "contact": "7481978181",
+    "isStudentBody": true
+  },
+  {
+    "name": "Rahul Kumar",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "rkumar@ee.iitr.ac.in",
+    "contact": "9460560257",
+    "isStudentBody": true
+  },
+  {
+    "name": "Aman Kumar",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "aman.kumarbbn@gmail.com",
+    "contact": "9123404137",
+    "isStudentBody": true
+  },
+  {
+    "name": "Ayush Dixit",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Ayush%20Dixit.png",
+    "email": "adixit@me.iitr.ac.in",
+    "contact": "9479340436",
+    "isStudentBody": true
+  },
+  {
+    "name": "Himanshu Tripathi",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Ayush%20Dixit.png",
+    "email": "adixit@me.iitr.ac.in",
+    "contact": "9829748703",
+    "isStudentBody": true
+  },
+  {
+    "name": "Rohit Poonia",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Ayush%20Dixit.png",
+    "email": "rohit@mt.iitr.ac.in",
+    "contact": "7300219613",
+    "isStudentBody": true
+  },
+  {
+    "name": "Prof.Ajit Kumar Chaturvedi",
+    "designation": "Director",
+    "image": "/images/IITR_Director.png",
+    "email": "director@iitr.ac.in",
+    "contact": "NA",
+    "isStudentBody": false
+  },
+  {
+    "name": "Abhyuday Mishra",
+    "designation": "Chairperson",
+    "image": "/images/Abhyuday%20Mishra.png",
+    "email": "amishra3@ch.iitr.ac.in",
+    "contact": "9560284667",
+    "isStudentBody": true
+  },
+  {
+    "name": "Souradipta Ganguly",
+    "designation": "Vice-Chairperson",
+    "image": "/images/Souradipta%20Ganguly.png",
+    "email": "souradiptagang@gmail.com",
+    "contact": "9867186036",
+    "isStudentBody": true
+  },
+  {
+    "name": "Zaid Bin Junaid",
+    "designation": "Head of Web Development",
+    "image": "/images/Zaid%20Bin%20Junaid.png",
+    "email": "zaidjunaid3@gmail.com",
+    "contact": "7300912106",
+    "isStudentBody": true
+  },
+  {
+    "name": "Anurag Mukherjee",
+    "designation": "Head of New Connections",
+    "image": "/images/Anurag%20Mukherjee.png",
+    "email": "amukerjee@es.iitr.ac.in",
+    "contact": "9068521481",
+    "isStudentBody": true
+  },
+  {
+    "name": "Rishabh Sharma",
+    "designation": "Head of Content and Design",
+    "image": "/images/Anurag%20Mukherjee.png",
+    "email": "rsharma1@me.iitr.ac.in",
+    "contact": "9582886628",
+    "isStudentBody": true
+  },
+  {
+    "name": "Saurav Sangam",
+    "designation": "Head of on campus activities",
+    "image": "/images/Saurav%20Sangam.png",
+    "email": "ssangam@ee.iitr.ac.in",
+    "contact": "7319987253",
+    "isStudentBody": true
+  },
+  {
+    "name": "Yash Agrawal",
+    "designation": "Executive Member",
+    "image": "/images/Yash%20Agrawal.png",
+    "email": "yagrawal@ch.iitr.ac.in",
+    "contact": "9680790435",
+    "isStudentBody": true
+  },
+  {
+    "name": "Nipun Bhagat",
+    "designation": "Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "nbhagat@ee.iitr.ac.in",
+    "contact": "9682622919",
+    "isStudentBody": true
+  },
+  {
+    "name": "Aryan",
+    "designation": "Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "araj1@ee.iitr.ac.in",
+    "contact": "9068511351",
+    "isStudentBody": true
+  },
+  {
+    "name": "Prabhakar Aryan",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "pkumar@ch.iitr.ac.in",
+    "contact": "7481978181",
+    "isStudentBody": true
+  },
+  {
+    "name": "Rahul Kumar",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "rkumar@ee.iitr.ac.in",
+    "contact": "9460560257",
+    "isStudentBody": true
+  },
+  {
+    "name": "Aman Kumar",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "aman.kumarbbn@gmail.com",
+    "contact": "9123404137",
+    "isStudentBody": true
+  },
+  {
+    "name": "Ayush Dixit",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Ayush%20Dixit.png",
+    "email": "adixit@me.iitr.ac.in",
+    "contact": "9479340436",
+    "isStudentBody": true
+  },
+  {
+    "name": "Himanshu Tripathi",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Ayush%20Dixit.png",
+    "email": "adixit@me.iitr.ac.in",
+    "contact": "9829748703",
+    "isStudentBody": true
+  },
+  {
+    "name": "Rohit Poonia",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Ayush%20Dixit.png",
+    "email": "rohit@mt.iitr.ac.in",
+    "contact": "7300219613",
+    "isStudentBody": true
+  },
+  {
+    "name": "Abhyuday Mishra",
+    "designation": "Chairperson",
+    "image": "/images/Abhyuday%20Mishra.png",
+    "email": "amishra3@ch.iitr.ac.in",
+    "contact": "9560284667",
+    "isStudentBody": true
+  },
+  {
+    "name": "Souradipta Ganguly",
+    "designation": "Vice-Chairperson",
+    "image": "/images/Souradipta%20Ganguly.png",
+    "email": "souradiptagang@gmail.com",
+    "contact": "9867186036",
+    "isStudentBody": true
+  },
+  {
+    "name": "Zaid Bin Junaid",
+    "designation": "Head of Web Development",
+    "image": "/images/Zaid%20Bin%20Junaid.png",
+    "email": "zaidjunaid3@gmail.com",
+    "contact": "7300912106",
+    "isStudentBody": true
+  },
+  {
+    "name": "Anurag Mukherjee",
+    "designation": "Head of New Connections",
+    "image": "/images/Anurag%20Mukherjee.png",
+    "email": "amukerjee@es.iitr.ac.in",
+    "contact": "9068521481",
+    "isStudentBody": true
+  },
+  {
+    "name": "Rishabh Sharma",
+    "designation": "Head of Content and Design",
+    "image": "/images/Anurag%20Mukherjee.png",
+    "email": "rsharma1@me.iitr.ac.in",
+    "contact": "9582886628",
+    "isStudentBody": true
+  },
+  {
+    "name": "Saurav Sangam",
+    "designation": "Head of on campus activities",
+    "image": "/images/Saurav%20Sangam.png",
+    "email": "ssangam@ee.iitr.ac.in",
+    "contact": "7319987253",
+    "isStudentBody": true
+  },
+  {
+    "name": "Yash Agrawal",
+    "designation": "Executive Member",
+    "image": "/images/Yash%20Agrawal.png",
+    "email": "yagrawal@ch.iitr.ac.in",
+    "contact": "9680790435",
+    "isStudentBody": true
+  },
+  {
+    "name": "Nipun Bhagat",
+    "designation": "Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "nbhagat@ee.iitr.ac.in",
+    "contact": "9682622919",
+    "isStudentBody": true
+  },
+  {
+    "name": "Aryan",
+    "designation": "Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "araj1@ee.iitr.ac.in",
+    "contact": "9068511351",
+    "isStudentBody": true
+  },
+  {
+    "name": "Prabhakar Aryan",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "pkumar@ch.iitr.ac.in",
+    "contact": "7481978181",
+    "isStudentBody": true
+  },
+  {
+    "name": "Rahul Kumar",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "rkumar@ee.iitr.ac.in",
+    "contact": "9460560257",
+    "isStudentBody": true
+  },
+  {
+    "name": "Aman Kumar",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Nipun%20Bhagat.png",
+    "email": "aman.kumarbbn@gmail.com",
+    "contact": "9123404137",
+    "isStudentBody": true
+  },
+  {
+    "name": "Ayush Dixit",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Ayush%20Dixit.png",
+    "email": "adixit@me.iitr.ac.in",
+    "contact": "9479340436",
+    "isStudentBody": true
+  },
+  {
+    "name": "Himanshu Tripathi",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Ayush%20Dixit.png",
+    "email": "adixit@me.iitr.ac.in",
+    "contact": "9829748703",
+    "isStudentBody": true
+  },
+  {
+    "name": "Rohit Poonia",
+    "designation": "Mentor and Executive Member",
+    "image": "/images/Ayush%20Dixit.png",
+    "email": "rohit@mt.iitr.ac.in",
+    "contact": "7300219613",
+    "isStudentBody": true
+  },
+  {
+    "name": "Prof. Akshay Dwivedi",
+    "designation": "Associate Dean of Corporate Interactions (ADCI)",
+    "image": "/images/Prof.%20Akshay%20Dwivedi.png",
+    "email": "adci@iitr.ac.in",
+    "contact": "+91-1332-285378",
+    "isStudentBody": false
+  },
+  {
+    "name": "Prof. Manish Shrikhande",
+    "designation": "Dean Sponsored Research & Industrial Consultancy",
+    "image": "/images/Prof.%20Manish%20Shrikhande.png",
+    "email": "dsric@iitr.ac.in",
+    "contact": "+91-1332-285245",
+    "isStudentBody": false
+  }
+]
